@@ -1,0 +1,1 @@
+Drop this folder (or just index.html) into https://app.netlify.com/drop to publish. For GoDaddy Website Builder, copy/paste the content into your sections.
